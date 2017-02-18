@@ -18,3 +18,9 @@ a = b
 b = c
 
 print("a : {}, b : {}".format(a, b))
+
+print("3e technique")
+
+a, b = b, a
+
+print("a : {}, b : {}".format(a, b))
